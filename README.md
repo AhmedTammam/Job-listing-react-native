@@ -1,13 +1,20 @@
-# Expo Router Example
+# Job Listing App
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+A simple app which fetching and listing relevant jobs details according to search parameters, popular and nearby. This App is developed by [`React Native`](https://reactnative.dev/)
 
-## 🚀 How to use
+
+## Technologies :
+- [`React Native`](https://reactnative.dev/)
+- Expo ( Router - Splash Screen)
+- [`Axios`](https://axios-http.com/docs/intro)
+
+## How to use
 
 ```sh
-npx create-expo-app -e with-router
+npm install && npm run start
 ```
 
-## 📝 Notes
+> Scan the QR code with Expo Go (Android) or the Camera app (iOS)
 
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+> Web is waiting on http://localhost:####
+
